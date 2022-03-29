@@ -1,2 +1,2 @@
 //shows what's hidden
-const navMenu = document.getElementById(nav-menu);
+const navMenu = document.getElementById('nav-menu');

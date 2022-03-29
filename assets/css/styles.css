@@ -214,6 +214,10 @@ img{
 
     .nav_close:hover{
         color: var(--first-color-alt);
-        
+
+    }
+
+    .show-menu{
+        bottom: 0;
     }
 }
